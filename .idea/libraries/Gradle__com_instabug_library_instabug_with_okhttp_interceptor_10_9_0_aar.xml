@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.instabug.library:instabug-with-okhttp-interceptor:10.9.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-4.1-all/caches/transforms-2/files-2.1/a8ca3498a26ae7aa2a253d835ace8204/instabug-with-okhttp-interceptor-10.9.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/wrapper/dists/gradle-4.1-all/caches/transforms-2/files-2.1/a8ca3498a26ae7aa2a253d835ace8204/instabug-with-okhttp-interceptor-10.9.0/res" />
+      <root url="file://$USER_HOME$/.gradle/wrapper/dists/gradle-4.1-all/caches/transforms-2/files-2.1/a8ca3498a26ae7aa2a253d835ace8204/instabug-with-okhttp-interceptor-10.9.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-4.1-all/caches/modules-2/files-2.1/com.instabug.library/instabug-with-okhttp-interceptor/10.9.0/26301240ca61905e7280e5a67e6f4dbbfcc79a55/instabug-with-okhttp-interceptor-10.9.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-4.1-all/caches/modules-2/files-2.1/com.instabug.library/instabug-with-okhttp-interceptor/10.9.0/26301240ca61905e7280e5a67e6f4dbbfcc79a55/instabug-with-okhttp-interceptor-10.9.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

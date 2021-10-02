@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="Gradle: com.instabug.library:instabug-survey:10.9.0@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-4.1-all/caches/transforms-2/files-2.1/b2725a3e4cf8f8afff846dfe0259273c/instabug-survey-10.9.0/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-4.1-all/caches/transforms-2/files-2.1/b2725a3e4cf8f8afff846dfe0259273c/instabug-survey-10.9.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/wrapper/dists/gradle-4.1-all/caches/transforms-2/files-2.1/b2725a3e4cf8f8afff846dfe0259273c/instabug-survey-10.9.0/res" />
+      <root url="file://$USER_HOME$/.gradle/wrapper/dists/gradle-4.1-all/caches/transforms-2/files-2.1/b2725a3e4cf8f8afff846dfe0259273c/instabug-survey-10.9.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-4.1-all/caches/modules-2/files-2.1/com.instabug.library/instabug-survey/10.9.0/a82fc84299ac184862828ef5ba8e0443a61b2a81/instabug-survey-10.9.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-4.1-all/caches/modules-2/files-2.1/com.instabug.library/instabug-survey/10.9.0/a82fc84299ac184862828ef5ba8e0443a61b2a81/instabug-survey-10.9.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

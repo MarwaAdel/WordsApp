@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="Gradle: com.instabug.library:instabug-features-request:10.9.0@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-4.1-all/caches/transforms-2/files-2.1/5c5553f30c337e5195a21030b4a339f5/instabug-features-request-10.9.0/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-4.1-all/caches/transforms-2/files-2.1/5c5553f30c337e5195a21030b4a339f5/instabug-features-request-10.9.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/wrapper/dists/gradle-4.1-all/caches/transforms-2/files-2.1/5c5553f30c337e5195a21030b4a339f5/instabug-features-request-10.9.0/res" />
+      <root url="file://$USER_HOME$/.gradle/wrapper/dists/gradle-4.1-all/caches/transforms-2/files-2.1/5c5553f30c337e5195a21030b4a339f5/instabug-features-request-10.9.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-4.1-all/caches/modules-2/files-2.1/com.instabug.library/instabug-features-request/10.9.0/4d41d8ddf1c68e1b170a7e476998770ea59c354b/instabug-features-request-10.9.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-4.1-all/caches/modules-2/files-2.1/com.instabug.library/instabug-features-request/10.9.0/4d41d8ddf1c68e1b170a7e476998770ea59c354b/instabug-features-request-10.9.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

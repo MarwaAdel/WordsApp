@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="Gradle: com.instabug.library:instabug-crash:10.9.0@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-4.1-all/caches/transforms-2/files-2.1/939908b0406ff322c21442951aa647c3/instabug-crash-10.9.0/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-4.1-all/caches/transforms-2/files-2.1/939908b0406ff322c21442951aa647c3/instabug-crash-10.9.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/wrapper/dists/gradle-4.1-all/caches/transforms-2/files-2.1/939908b0406ff322c21442951aa647c3/instabug-crash-10.9.0/res" />
+      <root url="file://$USER_HOME$/.gradle/wrapper/dists/gradle-4.1-all/caches/transforms-2/files-2.1/939908b0406ff322c21442951aa647c3/instabug-crash-10.9.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-4.1-all/caches/modules-2/files-2.1/com.instabug.library/instabug-crash/10.9.0/855811cf9f69aa523cd156fff441de1725bc59b0/instabug-crash-10.9.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-4.1-all/caches/modules-2/files-2.1/com.instabug.library/instabug-crash/10.9.0/855811cf9f69aa523cd156fff441de1725bc59b0/instabug-crash-10.9.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
