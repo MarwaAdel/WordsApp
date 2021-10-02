@@ -22,7 +22,7 @@ public class App extends Application {
         new Instabug.Builder(this, "3e097cb41ba8edc126aa3dd5f720de3f")
                 .setInvocationEvents(InstabugInvocationEvent.SHAKE, InstabugInvocationEvent.SCREENSHOT)
                 .build();
-        FeatureRequests.show();
+//        FeatureRequests.show();
 
     }
 
