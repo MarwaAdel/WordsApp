@@ -1,4 +1,4 @@
-package com.example.wordsapp;
+package com.example.wordsapp.Adapter;
 
 import android.view.LayoutInflater;
 import android.view.View;
@@ -7,6 +7,8 @@ import android.widget.BaseAdapter;
 import android.widget.Filter;
 import android.widget.Filterable;
 import android.widget.TextView;
+
+import com.example.wordsapp.R;
 
 import java.util.ArrayList;
 import java.util.Collection;
@@ -96,9 +98,9 @@ public class WordsAdapter extends BaseAdapter implements Filterable {
         @Override
         protected void publishResults(CharSequence charSequence, FilterResults filterResults) {
 //            originalData.clear();
-//            mData.addAll((Collection<? extends String>) filterResults.values);
+            mData.addAll((Collection<? extends String>) filterResults.values);
 //            mData = (ArrayList) filterResults.values;
-            originalData = (ArrayList<HashMap<String, Integer>>) filterResults.values;
+//            originalData = (ArrayList<HashMap<String, Integer>>) filterResults.values;
             notifyDataSetChanged();
         }
     };
