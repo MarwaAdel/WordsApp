@@ -84,8 +84,6 @@ public class MainActivity extends AppCompatActivity {
                         e.printStackTrace();
                     }
                     htmlData = stringBuffer.toString();
-                    Log.e("species", htmlData + "");
-
                     runOnUiThread(new Runnable() {
 
                         @Override
